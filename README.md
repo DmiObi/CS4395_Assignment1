@@ -1,4 +1,4 @@
-# CS4395 Assignment1
+## CS4395 Assignment 1
 
 # What this program does: 
 It parses a text file that has the following format <Last,First,Middle Initial,ID,Office phone>.
