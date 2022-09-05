@@ -11,4 +11,4 @@ In order to run this program, you need to pass a parameter, which is the pathway
 ## What did I learn in this assignment? 
 I learned how to use regular expressions (ReGex) for finding patterns in a text. In addition, I learned how to work with text in general: opening text files as well as parsing them. One thing that was a review for me was building classes in python as well as using data structures like a hash table.
 
-click [HERE]{CS4395_Assignment1.py} to access the code
+click [HERE](CS4395_Assignment1.py) to access the code
